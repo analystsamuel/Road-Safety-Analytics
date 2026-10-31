@@ -89,14 +89,13 @@ Explores accident severity patterns and examines how road types, weather conditi
 
 ## Repository Structure
 
-```text
 ## Repository Contents
 
 | File | Description |
 |---|---|
-| [R.Overview.png](R.Overview.png) | Overview dashboard screenshot |
-| [R.Hotspots.png](R.Hotspots.png) | Accident hotspots dashboard screenshot |
-| [R.Severity.png](R.Severity.png) | Accident severity dashboard screenshot |
-| [Road Safety.ipynb](Road%20Safety.ipynb) | Python notebook for data cleaning and preparation |
-| [Road Safety Queries.sql](Road%20Safety%20Queries.sql) | SQL queries for data exploration and analysis |
-| [Road Safety Dashboard.pbix](Road%20Safety%20Dashboard.pbix) | Interactive Power BI dashboard |
+| R.Overview.png | Overview dashboard screenshot |
+| R.Hotspots.png | Accident hotspots dashboard screenshot |
+| R.Severity.png | Accident severity dashboard screenshot |
+| Road Safety.ipynb | Python notebook for data cleaning and preparation |
+| Road Safety Queries.sql | SQL queries for data exploration and analysis |
+| Road Safety Dashboard.pbix | Interactive Power BI dashboard |
